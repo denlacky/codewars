@@ -12,3 +12,18 @@
         }
     }
     console.log(evenOrOdd())
+
+//     <script>
+//     function evenOrOdd(number) {
+//         let num = prompt()
+//         number=num
+//         let procen = number % 2 === 0;
+//         if(procen){
+//             return "Even"
+//         }
+//         else {
+//             return "Odd"
+//         }
+//     }
+// console.log(evenOrOdd())
+// </script>
